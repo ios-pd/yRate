@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'yRate'
-  s.version          = '0.1.0'
+s.version = '0.2.0'
   s.summary          = 'Mobile Test Framework'
   s.description      = 'This is a cocoapod to improve the security of mobile apps.'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
